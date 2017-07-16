@@ -1,0 +1,36 @@
+{
+  "name": "gitbook-keycodes",
+  "version": "0.0.1",
+  "description": "Nice OS-specific symbols and formatting for keyboard shortcuts",
+  "scripts": {
+    "test": "echo \"Error: no tests specified\" && exit 1"
+  },
+  "keywords": [
+    "GitBook",
+    "keyboard",
+    "shortcuts"
+  ],
+  "author": {
+    "name": "Nathan Koren 'nkoren'",
+    "email": "nkoren@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "gitbook": "*"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Podaris/gitbook-keycodes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Podaris/gitbook-keycodes/issues"
+  },
+  "homepage": "https://github.com/Podaris/gitbook-keycodes#readme",
+  "maintainers": [
+    {
+      "name": "Nathan Koren",
+      "email": "nkoren@gmail.com"
+    }
+  ]
+}
