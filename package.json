@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-keycodes",
+  "name": "gitbook-plugin-keycodes",
   "version": "0.0.1",
   "description": "Nice OS-specific symbols and formatting for keyboard shortcuts",
   "scripts": {
